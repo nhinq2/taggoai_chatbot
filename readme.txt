@@ -1,7 +1,7 @@
 === Chatbot AI for Customer Support - TaggoAI ===
 Contributors: nhicloud
 Donate link: https://taggoai.com
-Tags: bot, live chat
+Tags: chatbot
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
