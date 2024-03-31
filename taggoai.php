@@ -1,16 +1,15 @@
 <?php
 /*
  * Plugin Name:       TaggoAI Chatbot
- * Plugin URI:        https://taggoai.com/taggoai-chatbot/
+ * Plugin URI:        https://wordpress.org/plugins/taggoai-chatbot/
  * Description:       AI Chatbot for your WordPress Website. Chatbot for Customer Support!
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            TaggoAI Team
  * Author URI:        https://taggoai.com
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI:        https://taggoai.com
  * Text Domain:       taggoai_chatbot
  */
 if (!defined('ABSPATH')) {
