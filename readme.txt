@@ -1,10 +1,11 @@
 === Chatbot AI for Customer Support - TaggoAI ===
 Contributors: nhicloud
-Donate link: https://wordpress.com/@nhicloud/
-Tags: chatbot, AI, live chat, ChatGPT
+Donate link: https://taggoai.com
+Tags: bot, chatbot, chatgpt, live chat, AI
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
+Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

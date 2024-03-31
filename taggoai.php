@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name:       TaggoAI Chatbot
- * Plugin URI:        https://wordpress.org/plugins/taggoai-chatbot
+ * Plugin URI:        https://taggoai.com/taggoai-chatbot/
  * Description:       AI Chatbot for your WordPress Website. Chatbot for Customer Support!
  * Version:           1.0.0
  * Requires at least: 5.2
